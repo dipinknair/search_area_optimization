@@ -1,0 +1,15 @@
+Area1 - 7315 m^2, WPs - 30
+Area2 - 9600 m^2, WPs - 39
+Area3 - 8800 m^2, WPs - 36
+
+FOV - 250 m^2
+Velicle Speed - 5 m/s
+Threshold to WP - 3 m
+
+no. of particles for PSO - 50 (2*numWP - Dimensional)
+no. of Iterations for PSO - 100
+
+time - approx. 2 mins (single thread), depending upon the number of WPs
+
+no. of ants - 50
+no. of iterations - variable (depending upon number of WPs to visit)
